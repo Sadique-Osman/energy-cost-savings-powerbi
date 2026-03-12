@@ -1,6 +1,7 @@
 # Energy Cost Savings Forecaster — Power BI Dashboard
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![<img width="923" height="496" alt="Energy" src="https://github.com/user-attachments/assets/b9c15592-da24-4b8e-b2ad-ceed1db86c87" />
+)]
 
 ---
 
